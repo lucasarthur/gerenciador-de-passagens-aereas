@@ -13,7 +13,7 @@ Este é um gerenciador de passagens aéreas simples desenvolvido em Python, util
 1.  Clone o repositório:
 
     ```bash
-    git clone [https://github.com/lucasarthur/gerenciador-de-passagens-aereas.git](https://github.com/lucasarthur/gerenciador-de-passagens-aereas.git)
+    git clone [https://github.com/lucasarthur/gerenciador-de-passagens-aereas.git]
     ```
 
 2.  Navegue até o diretório do projeto:
